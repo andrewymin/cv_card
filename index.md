@@ -10,9 +10,9 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 <!--		Corrected file pathing code for links below-->
-		<link rel="stylesheet" href="../static/assets/css/main.css" />
-		<link rel="icon" href="../static/images/favicon.ico">
-		<noscript><link rel="stylesheet" href="../static/assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="static/assets/css/main.css" />
+		<link rel="icon" href="static/images/favicon.ico">
+		<noscript><link rel="stylesheet" href="static/assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 
@@ -38,7 +38,7 @@
 								</header>
 								<a href="#work" class="jumplink pic">
 									<span class="arrow icon solid fa-chevron-right"><span>See my work</span></span>
-									<img src="../static/images/andy.jpg" alt="" />
+									<img src="static/images/andy.jpg" alt="" />
 								</a>
 							</article>
 
@@ -98,13 +98,13 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="../static/assets/js/jquery.min.js"></script>
-			<script src="../static/assets/js/browser.min.js"></script>
-			<script src="../static/assets/js/breakpoints.min.js"></script>
-			<script src="../static/assets/js/util.js"></script>
-			<script src="../static/assets/js/main.js"></script>
+			<script src="static/assets/js/jquery.min.js"></script>
+			<script src="static/assets/js/browser.min.js"></script>
+			<script src="static/assets/js/breakpoints.min.js"></script>
+			<script src="static/assets/js/util.js"></script>
+			<script src="static/assets/js/main.js"></script>
 		<!-- for js to run in github using script below-->
-			<script src="../static/assets/js/index.js"></script>
+			<script src="static/assets/js/index.js"></script>
 
 	</body>
 
